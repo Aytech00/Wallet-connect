@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.logo{
+    width: 80px;
+    padding: 10px;
+}
+
+#Heading{
+    background-color: burlywood;
+}
+
+.headingimg{
+    width: 90px;
+
+}
+
+.nav-link{
+    color: brown;
+}
