@@ -17,8 +17,14 @@
 }
 
 /* Second section */
+/* Heading */
+.Heading{
+    margin-bottom: 7px;
+}
+
+/* subheading */
 .Wallet-connect{
-    padding: 6% 13%;
+    padding: 6% 18%;
     text-align: center;
 }
 
@@ -28,12 +34,10 @@
     text-align: center;
 
 }
-.column1{
-    /* margin: 20px; */
-}
+
 
 .wallet-image{
-    width: 70%;
+    width: 80%;
     /* padding-bottom: 4px; */
       /* border: 1px solid black;
     border-radius: 15px; */
@@ -41,8 +45,12 @@
     
 }
 
+.column{
+    margin-bottom:25px ;
+}
   .column-1-title{
     text-decoration: none; 
+    
 
     
     }
@@ -54,6 +62,7 @@
     display: block;
     color: brown;
     border: 1px solid;
+    border-radius: 10px;
     margin-top: 10px;
     
 
