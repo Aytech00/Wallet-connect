@@ -1,87 +1,71 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
-.logo{
-    width: 50px;
+.logo {
+  width: 50px;
 }
 
 /* First section */
-#Banner{
-    text-align: center;
-    padding: 6% 10%;
+#Banner {
+  text-align: center;
+  padding: 6% 10%;
 }
 
-.banner-image{
-    width: 85%;
+.banner-image {
+  width: 85%;
 }
 
 /* Second section */
 /* Heading */
-.Heading{
-    margin-bottom: 7px;
+.Heading {
+  margin-bottom: 7px;
 }
 
 /* subheading */
-.Wallet-connect{
-    padding: 6% 18%;
-    text-align: center;
+.Wallet-connect {
+  padding: 6% 18%;
+  text-align: center;
 }
 
 /* Wallet logo */
-#images{
-    padding: 5% 10%;
-    text-align: center;
-
+#images {
+  padding: 5% 10%;
+  text-align: center;
 }
 
-
-.wallet-image{
-    width: 80%;
-    /* padding-bottom: 4px; */
-      /* border: 1px solid black;
+.wallet-image {
+  width: 80%;
+  /* padding-bottom: 4px; */
+  /* border: 1px solid black;
     border-radius: 15px; */
-    
-    
 }
 
-.column{
-    margin-bottom:25px ;
+.column {
+  margin-bottom: 25px;
 }
-  .column-1-title{
-    text-decoration: none; 
-    
+.column-1-title {
+  text-decoration: none;
+}
 
-    
-    }
-
-@media screen and (max-width:1000px){
-    .column-1-title{
+@media screen and (max-width: 1000px) {
+  .column-1-title {
     text-align: center;
-    text-decoration: none; 
+    text-decoration: none;
     display: block;
     color: brown;
     border: 1px solid;
     border-radius: 10px;
     margin-top: 10px;
-    
-
-    }
-    .column{
-        margin-bottom: 40px;
-        
-    }
-
-
+  }
+  .column {
+    margin-bottom: 40px;
+  }
 }
 
-
-
-
-
 /* Footer  */
-#footer{
-    background-color: whitesmoke;
-    text-align: center;
-    padding: 2% 5%;
+#footer {
+  background-color: whitesmoke;
+  text-align: center;
+  padding: 2% 5%;
 }
