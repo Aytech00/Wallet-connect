@@ -72,8 +72,11 @@
 /* Footer  */
 #footer {
   background-color: whitesmoke;
+  padding: 4% 2%;
+}
+#footer p{
   text-align: center;
-  padding: 2% 5%;
+  color: black;
 }
 
 .ste-input {
